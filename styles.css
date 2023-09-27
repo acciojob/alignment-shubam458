@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+
+#table-1,tr,td{
+    width:50%;;
+	border:1px solid black;
+	spacing:10px;
+	padding:20px;
+	border-collapse:collapse;
+	box-sizing:border-box;
+}
